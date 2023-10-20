@@ -1,0 +1,23 @@
+{
+  "name": "bc-hero",
+  "version": "1.0.0",
+  "description": "The ultimate blockchain game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x00ASTRA/BC-Hero.git"
+  },
+  "keywords": [
+    "blockchain",
+    "game"
+  ],
+  "author": "ASTRAEUS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0x00ASTRA/BC-Hero/issues"
+  },
+  "homepage": "https://github.com/0x00ASTRA/BC-Hero#readme"
+}
